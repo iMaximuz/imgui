@@ -16,7 +16,7 @@ project "ImGui"
         "imstb_rectpack.h",
         "imstb_testedit.h",
         "imstb_truetype.h",
-        "imgui_demo"
+        "imgui_demo.cpp"
     }
 
     filter "system:windows"
